@@ -7,5 +7,5 @@ avatar.addEventListener('click', () => {
 })
 
 saiba.addEventListener('click', () => {
-    $('#modalExemplo').modal('show')
+    $('#modal').modal('show')
 })
