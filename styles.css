@@ -85,6 +85,7 @@ video {
 .serie-titulo {
   font-size: 80px;
   font-weight: bold;
+  top: 20%;
 }
 
 .serie-descricao {
